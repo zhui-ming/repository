@@ -1,3 +1,3 @@
 about branch
-no ff mode
+no ff mode is over
 
